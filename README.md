@@ -14,20 +14,7 @@ HandsOn is a community-driven social volunteering platform. This repository cont
 - **Authentication**: JWT-based authentication
 - **API Communication**: REST API
 
-## 📂 Project Structure
-```
-backend/
-│── src/
-│   ├── controllers/   # Business logic for routes
-│   ├── models/        # Mongoose models (Event, User, etc.)
-│   ├── routes/        # API endpoints
-│   ├── middlewares/   # Authentication & validation middleware
-│   ├── config/        # Database connection & environment variables
-│   ├── server.js      # Main server file
-│── .env               # Environment variables
-│── package.json
-│── README.md
-```
+
 
 ## 🔧 Setup & Installation
 
